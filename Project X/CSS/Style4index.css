@@ -1,0 +1,19 @@
+header{
+    padding-top: 0px;
+}
+
+
+
+.navbarcustom{
+    background: black;
+}
+.LI{
+	color:white;
+}
+
+.LI a:hover{
+ background: brown;
+ font-size: 30px;
+ font-weight: bold;
+ text-align: center;
+}
