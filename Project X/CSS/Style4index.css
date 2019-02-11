@@ -12,8 +12,7 @@ header{
 }
 
 .LI a:hover{
- background: brown;
+ 
  font-size: 30px;
  font-weight: bold;
- text-align: center;
 }
